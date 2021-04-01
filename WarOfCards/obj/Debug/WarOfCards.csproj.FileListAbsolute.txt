@@ -1,0 +1,7 @@
+C:\Development\WarOfCards\WarOfCards\obj\Debug\WarOfCards.csprojAssemblyReference.cache
+C:\Development\WarOfCards\WarOfCards\obj\Debug\WarOfCards.csproj.CoreCompileInputs.cache
+C:\Development\WarOfCards\WarOfCards\bin\Debug\WarOfCards.exe.config
+C:\Development\WarOfCards\WarOfCards\bin\Debug\WarOfCards.exe
+C:\Development\WarOfCards\WarOfCards\bin\Debug\WarOfCards.pdb
+C:\Development\WarOfCards\WarOfCards\obj\Debug\WarOfCards.exe
+C:\Development\WarOfCards\WarOfCards\obj\Debug\WarOfCards.pdb
